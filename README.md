@@ -70,5 +70,6 @@ sum_list[0]
 * https://velog.io/@dev_halo/BertSum
 * https://github.com/raqoon886/KorBertSum
 * https://github.com/huggingface/transformers
+* https://huggingface.co/docs/transformers/model_doc/bert
 * https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
 * https://dacon.io/competitions/official/235671/overview/description
