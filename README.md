@@ -1,4 +1,4 @@
-# BertSum
+# BertSum + Hugging Face🤗
 
 **This code is for paper `Fine-tune BERT for Extractive Summarization`**(https://arxiv.org/pdf/1903.10318.pdf)
 
