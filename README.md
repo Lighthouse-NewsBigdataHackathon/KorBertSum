@@ -8,6 +8,8 @@
 
 **데이터는 DACON의 뉴스 추출요약 데이터셋을 활용했습니다.**
 
+**데이터의 전처리는 Konlpy의 Mecab(은전한닢)을 활용하여 형태소 분리를 진행하였습니다.(Jupyter에 모두 작성되어 있음.)**
+
 **Work Flow는 Jupyter Notebook을 이용하시면 됩니다.**
 
 ## How to Test ?
