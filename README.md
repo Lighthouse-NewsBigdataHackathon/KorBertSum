@@ -75,3 +75,4 @@ sum_list[0]
 * https://huggingface.co/docs/transformers/model_doc/bert
 * https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
 * https://dacon.io/competitions/official/235671/overview/description
+* https://teddylee777.github.io/colab/colab-mecab
