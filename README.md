@@ -76,3 +76,17 @@ sum_list[0]
 * https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
 * https://dacon.io/competitions/official/235671/overview/description
 * https://teddylee777.github.io/colab/colab-mecab
+
+----
+**데이터는 DACON의 뉴스 추출요약 데이터셋의 데이터가 현재 사용불가 했습니다.**
+
+**대신 AI Hub의 요약문 및 레포트 생성데이터를 사용하였습니다.**
+
+**AI Hub의 요약문 및 레포트 생성데이터를 BertSum 모델 학습 형태에 맞추어서 변환하는 코드 업로드 예정**
+
+## Refference
+* https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582
+* https://github.com/HaloKim/KorBertSum
+*  https://github.com/huggingface/transformers
+* https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
+*  https://teddylee777.github.io/colab/colab-mecab
