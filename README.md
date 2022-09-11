@@ -9,10 +9,10 @@
 **여러 문장으로 된 본문을 입력으로 받으면, 본문을 요약해줄 수 있는 핵심 문장을 추출하는 모델(2~3 문장 추출)**
 
 
----
+
 ## 요약문 및 레포트 생성데이터
 
----
+
 ## Reference
 * https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582
 * https://github.com/HaloKim/KorBertSum
