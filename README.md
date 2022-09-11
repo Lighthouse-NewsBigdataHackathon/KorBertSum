@@ -13,6 +13,21 @@
 ## 요약문 및 레포트 생성데이터
 
 
+## Training Detail
+* Trained on single RTX 3090
+* Loss: Cross Entropy Loss (Binary)
+* Adam Optimizer
+* 6 layers of Transformer
+* The hidden size is 512
+* the feed-forward filter size is 2048.
+* log
+![Training log](./log.png)
+
+
+
+
+
+
 ## Reference
 * https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582
 * https://github.com/HaloKim/KorBertSum
