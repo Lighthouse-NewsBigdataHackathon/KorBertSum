@@ -1,3 +1,27 @@
+# 추출 요약을 위한 모델: KoBertSum
+
+**데이터는 DACON의 뉴스 추출요약 데이터셋의 데이터가 현재 사용불가 했습니다.**
+
+**대신 AI Hub의 요약문 및 레포트 생성데이터를 사용하여 학습했습니다.**
+
+**AI Hub의 요약문 및 레포트 생성데이터를 BertSum 모델 학습 형태에 맞추어서 변환하는 코드 업로드 예정**
+
+**여러 문장으로 된 본문을 입력으로 받으면, 본문을 요약해줄 수 있는 핵심 문장을 추출하는 모델(2~3 문장 추출)**
+
+
+---
+## 요약문 및 레포트 생성데이터
+
+---
+## Reference
+* https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582
+* https://github.com/HaloKim/KorBertSum
+*  https://github.com/huggingface/transformers
+* https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
+*  https://teddylee777.github.io/colab/colab-mecab
+
+
+----
 # BertSum + Hugging Face🤗
 
 **This code is for paper `Fine-tune BERT for Extractive Summarization`**(https://arxiv.org/pdf/1903.10318.pdf)
@@ -68,7 +92,7 @@ sum_list[0]
 ```
 인풋데이터의 요약 순위를 확인할 수 있습니다.
 
-## Refference
+## Reference
 * https://velog.io/@dev_halo/BertSum
 * https://github.com/raqoon886/KorBertSum
 * https://github.com/huggingface/transformers
@@ -77,16 +101,3 @@ sum_list[0]
 * https://dacon.io/competitions/official/235671/overview/description
 * https://teddylee777.github.io/colab/colab-mecab
 
-----
-**데이터는 DACON의 뉴스 추출요약 데이터셋의 데이터가 현재 사용불가 했습니다.**
-
-**대신 AI Hub의 요약문 및 레포트 생성데이터를 사용하였습니다.**
-
-**AI Hub의 요약문 및 레포트 생성데이터를 BertSum 모델 학습 형태에 맞추어서 변환하는 코드 업로드 예정**
-
-## Refference
-* https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582
-* https://github.com/HaloKim/KorBertSum
-*  https://github.com/huggingface/transformers
-* https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
-*  https://teddylee777.github.io/colab/colab-mecab
